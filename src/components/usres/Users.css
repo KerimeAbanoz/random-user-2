@@ -1,0 +1,19 @@
+.th {
+    width: 25%;
+  }
+  
+  .head-tr {
+    background-color: hsl(39, 100%, 69%);
+    height: 40px;
+    color: #9e4d8d;
+  }
+  
+  .table {
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  .body-tr {
+    height: 40px;
+  }
+  
